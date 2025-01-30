@@ -1,6 +1,3 @@
-# Run the file: for BART -- nohup python -u finetune.py --model_type bart --summary_type general > OUTs/BART_FT_general.out &
-# Run the file: for T5 -- nohup python -u finetune.py --model_type t5 --summary_type pd > OUTs/T5_FT_pd.out &
-
 import os
 import argparse
 import numpy as np
