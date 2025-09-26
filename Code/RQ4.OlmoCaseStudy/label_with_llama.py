@@ -253,7 +253,7 @@ def main():
         df.to_csv(args.out_csv, index=False)
 
     elapsed = time.perf_counter() - start_time
-    print(f"✅ Done. Labeled column '{args.out_col}' written to: {args.out_csv}  | Elapsed: {elapsed/60:.1f} min")
+    print(f"Labeled column '{args.out_col}' written to: {args.out_csv}  | Elapsed: {elapsed/60:.1f} min")
 
 if __name__ == "__main__":
     main()
