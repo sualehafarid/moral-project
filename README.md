@@ -27,7 +27,15 @@ The datasets include moral reasoning scenarios translated into multiple language
 If you use this research or datasets in your work, please cite:
 
 ```
-
+@misc{farid2025modelmoralsuncoveringcrosslinguistic,
+      title={One Model, Many Morals: Uncovering Cross-Linguistic Misalignments in Computational Moral Reasoning}, 
+      author={Sualeha Farid and Jayden Lin and Zean Chen and Shivani Kumar and David Jurgens},
+      year={2025},
+      eprint={2509.21443},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.21443}, 
+}
 ```
 
 ## License
